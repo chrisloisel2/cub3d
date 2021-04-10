@@ -1,2 +1,5 @@
-# cub3d
-project 42
+# DOOM
+
+    make -> all
+    make re -> all
+    make debug -> gcc -g3 .c
